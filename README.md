@@ -1,4 +1,4 @@
-# aplikasir
+# aplikasir [JDK 17]
 
 A new Flutter project.
 
