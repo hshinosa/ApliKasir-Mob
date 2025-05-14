@@ -1115,4 +1115,5 @@ class DatabaseHelper {
       print("Database closed.");
     }
   }
+
 } // --- Akhir DatabaseHelper ---
